@@ -11,3 +11,7 @@ Tools Used:
 Power BI for data modeling and visualization
 Data cleaning and transformation using Power Query
 Based on simulated retail sales data
+
+Screenshots
+Show waht the dashboard looks like.
+Example: [Dashboard Preview].(https://github.com/RAHMAN62928/Blinkit-Sales-Dashboard/commit/d3e11f8f2cb4e8cd3ab6322b6102c32fdb695302)
